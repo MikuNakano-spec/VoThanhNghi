@@ -51,8 +51,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikunakano&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
