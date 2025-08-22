@@ -17,7 +17,7 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/nghị võ thanh" target="_blank">
+  <a href="[https://linkedin.com/in/nghị võ thanh](https://www.linkedin.com/in/ngh%E1%BB%8B-v%C3%B5-thanh-906a7536a/)" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
